@@ -37,5 +37,5 @@ CREATE TABLE TBL_MEMBER(
 	AGE NUMBER
 );
 ``` 
-![statistic](img/day06_table.png)
-![관계도](img/day06_statistics.png)
+![statistic](day06_table.png)
+![관계도](day06_statistics.png)

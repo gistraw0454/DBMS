@@ -9,7 +9,7 @@ cmd 창에서도 table을 불러올 수 있다.
 table이 두개있을때 서로 관계를 맺고 있을 수 있다.
 
 ex
-![alt text](img/RDBMS_ex.png)
+![alt text](RDBMS_ex.png)
 
 Table B에서 번호를보고 이름 나이를 알고 싶으면, 번호를 가져와 이 번호로 조건으로 가져와 Table A에서 조회한다. 
 
