@@ -58,6 +58,3 @@ CALL MY_NEW_JOB_PROC('IT','DEVELOPER',14000,20000);
         DBMS_OUTPUT.PUT_LINE('당신의점수: '||SCORE||'점'||CHR(10)||'학점: '||GRADE);
     END;
     ```
-
-    
-`CHR(10)` 은 줄바꿈을 의미한다.
